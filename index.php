@@ -252,7 +252,7 @@ Released   : 20131203
         <!-- end #page -->
 </div>
 <div id="footer">
-        <p>Copyright (c) 2013 @rishabh. All rights reserved. Source code available <a href= "">here</a></p>
+        <p>Copyright (c) 2018 @dppanda. All rights reserved. Source code available <a href= "">here</a></p>
 </div>
 <!-- end #footer -->
 </body>
